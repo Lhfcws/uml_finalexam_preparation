@@ -5,7 +5,7 @@
 
 > Produced by *Lhfcws Wu*
 
-请自行使用～ 可直接下载pdf版打印～
+请自行使用～ 可直接下载pdf版打印～ 最后还会有分栏版。
 
 + `uml_index.markdown` ：源markdown 文件，懂md的同学可自行按照既定格式继续添加新的索引术语和页码。
 + `uml_index_in_order.markdown` ： 索引按字典序排列的md文件，由python生成，**转pdf时请使用该文件**。
