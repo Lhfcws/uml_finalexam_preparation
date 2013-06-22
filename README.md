@@ -1,6 +1,6 @@
 # UML 考试索引 ， SE305 spring 2013
 
-**Updated: 2013-06-22 12:05**  
+**Updated: 2013-06-22 15:28**  
 **Version: 0.2**
 
 > Reference book: **Applying UML and Patterns 3rd, Chinese version**

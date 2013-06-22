@@ -17,11 +17,11 @@
 + **Agile rules**:   
   p21
 + **UP phases**:    
-  p25, discipline p25
-+ **Initial Phase**   
+  p25, discipline p25, inception elaboration construction transition
++ **Inception Phase**   
   p37, 判断题4.4 p39
 + **requirement**    
-  p41, types p42, requirement products p43
+  p41, types p42, requirement artifacts p43
 + **context diagram**   
   p47
 + **use case**  
@@ -51,7 +51,7 @@
 + **class diagram**   
   p180
 + **elaboration**   
-  p95, products p96
+  p95, artifacts p96
 + **executable architecture**   
   p95
 + **architecture baseline**  
@@ -142,3 +142,9 @@
   p8
 + **logical architecture(LA)**  
   p146
++ **GRASP**  
+  Chapter 17 p196, 通用职责分配软件模式(GRASP)侧重于基本的通用设计过程，是针对FURPS+需求模型中的Functional(功能性）的重要的设计原则。  
++ **GoF(Gang of Four)**  
+  GoF设计模式更注重FURPS+需求模型中的质量需求的设计。
++ **FURPS+**  
+  p42, about requirement

@@ -17,7 +17,7 @@ output_filename = 'uml_index_in_order.markdown'
 fname = path + filename
 outputf = path + output_filename
 
-p_keyword = re.compile('\*\*(\W|\w|\(|\)| )+\*\*')
+p_keyword = re.compile('\*\*[^\*]+\*\*')
 p_page = re.compile('p[0-9]+')
 
 ### FUNCTIONS

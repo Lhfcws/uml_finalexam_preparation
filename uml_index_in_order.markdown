@@ -45,21 +45,27 @@
 + **domain model**   
   _p98_
 + **elaboration**   
-  _p95_, products _p96_
+  _p95_, artifacts _p96_
 + **executable architecture**   
   _p95_
 + **Facade(GoF)**  
   _p335_
 + **Factory**  
   _p320_
++ **FURPS+**  
+  _p42_, about requirement
 + **generalization**  
   _p188_
++ **GoF(Gang of Four)**  
+  GoF设计模式更注重FURPS+需求模型中的质量需求的设计。
++ **GRASP**  
+  Chapter 17 _p196_, 通用职责分配软件模式(GRASP)侧重于基本的通用设计过程，是针对FURPS+需求模型中的Functional(功能性）的重要的设计原则。  
 + **High Cohesion**  
   _p209_, _p227_ 
++ **Inception Phase**   
+  _p37_, 判断题4.4 _p39_
 + **Information Expert**  
   _p205_, _p212_
-+ **Initial Phase**   
-  _p37_, 判断题4.4 _p39_
 + **interaction diagram**  
   _p161_, sequence diagram _p162_, communication diagram _p162_
 + **iterative**:   
@@ -103,7 +109,7 @@
 + **refactor(重构)**  
   _p282_
 + **requirement**    
-  _p41_, types _p42_, requirement products _p43_
+  _p41_, types _p42_, requirement artifacts _p43_
 + **Singleton(GoF)**  
   _p321_
 + **socket notation**  
@@ -135,7 +141,7 @@
 + **UP** :   
   _p14_
 + **UP phases**:    
-  _p25_, discipline _p25_
+  _p25_, discipline _p25_, inception elaboration construction transition
 + **use case**  
   _p45_, use case instance _p47_, scenario _p47_, use case model _p47_, why use case _p48_, example _p50_, details in each part _p55_
 + **use case diagram**  
