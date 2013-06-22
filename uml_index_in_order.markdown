@@ -59,7 +59,7 @@
 + **GoF(Gang of Four)**  
   GoF设计模式更注重FURPS+需求模型中的质量需求的设计。
 + **GRASP**  
-  Chapter 17 _p196_, 通用职责分配软件模式(GRASP)侧重于基本的通用设计过程，是针对FURPS+需求模型中的Functional(功能性）的重要的设计原则。  
+  Chapter 17 _p196_, 通用职责分配软件模式(GRASP)侧重于基本的通用设计过程，是针对FURPS+需求模型中的Functional(功能性）的重要的设计原则。  http://blog.chinaunix.net/uid-52437-id-2108586.html
 + **High Cohesion**  
   _p209_, _p227_ 
 + **Inception Phase**   
