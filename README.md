@@ -1,5 +1,7 @@
-
 # UML 考试索引 ， SE305 spring 2013
+
+**Updated: 2013-06-22 11:29**  
+**Version: 0.2**
 
 > Reference book: **Applying UML and Patterns 3rd, Chinese version**
 
@@ -15,3 +17,10 @@
 
 转换markdown可考虑Chrome的如下插件： markdown review, markdown reader等，然后CTRL+P使用pdf打印机输出成pdf即可。  
 Windows用户还可采用如MarkdownPad等的软件帮助生成pdf或HTML。
+
+***
+
+附送书上一则geek笑话：  
+Shakespear said that to be or not to be is a question. What's the answer?
+
+> Answer: 0x2B | ~0x2B = 0xFF

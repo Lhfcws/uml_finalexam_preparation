@@ -82,11 +82,11 @@
   p192, qualifier p192
 + **association class**  
   p193
-+ **property（特性）**  
++ **property(特性)**  
   p188, property string p188
 + **stereotype(构造型)**  
   p188
-+ **profile（简档）**  
++ **profile(简档)**  
   p188, UML profile p188
 + **UML classifier(类元)**  
   p182
@@ -118,7 +118,7 @@
   p337
 + **Test Driven Development (TDD)**  
   p279
-+ **refactor（重构）**  
++ **refactor(重构)**  
   p282
 + **pattern**  
   p201
@@ -132,3 +132,13 @@
   p207, p218 
 + **High Cohesion**  
   p209, p227 
++ **operation**  
+  p141
++ **method**  
+  p141
++ **Object Constraint Languale(OCL)**  
+  p141
++ **de facto standard diagraming notation**  
+  p8
++ **logical architecture(LA)**  
+  p146
