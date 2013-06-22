@@ -36,6 +36,8 @@
   _p207_, _p218_ 
 + **Creator**  
   _p203_, _p210_
++ **de facto standard diagraming notation**  
+  _p8_
 + **dependency**  
   _p189_
 + **Design Class Diagram (DCD)**  
@@ -64,16 +66,24 @@
   _p15_, advantages _p17_
 + **layer**  
   _p147_, _p149_
++ **logical architecture(LA)**  
+  _p146_
 + **Low Coupling**  
   _p206_, _p215_
++ **method**  
+  _p141_
 + **MVC**   
   _p153_
 + **navigability arrow**  
   _p182_
 + **note symbol**  
   _p185_
++ **Object Constraint Languale(OCL)**  
+  _p141_
 + **Observer(GoF) / Publish-Subscribe**  
   _p337_
++ **operation**  
+  _p141_
 + **operation contract**  
   _p133_
 + **package diagram**   
@@ -84,13 +94,13 @@
   _p55_, _p136_
 + **precondition**   
   _p55_
-+ **profile（简档）**  
++ **profile(简档)**  
   _p188_, UML profile _p188_
-+ **property（特性）**  
++ **property(特性)**  
   _p188_, property string _p188_
 + **qualified association**  
   _p192_, qualifier _p192_
-+ **refactor（重构）**  
++ **refactor(重构)**  
   _p282_
 + **requirement**    
   _p41_, types _p42_, requirement products _p43_
